@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Siddiqui</h1>
-<h3 align="center">Data analyst</h3>
+<h3 align="center">Data Analyst</h3>
 
 
 <p align="left">
